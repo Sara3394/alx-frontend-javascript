@@ -1,4 +1,4 @@
-# alx-backend-javascript
+# alx-Frontend-javascript
 
 ## 0x00. ES6 Basics
 
